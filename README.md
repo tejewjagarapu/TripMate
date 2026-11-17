@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -54,3 +55,7 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+=======
+# TripMate
+Trip_Mate is a collaborative travel management application that allows users to create trips, join existing trips, manage group expenses, track shared spending, and access safety features. It simplifies group travel by bringing trip management, expense tracking, and safety updates together in one platform.
+>>>>>>> 028b5dd931def4bb51d4cf56df925ea5f157a9a9
